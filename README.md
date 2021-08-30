@@ -26,6 +26,6 @@
 
 [` View it here `](https://tekno.gitbook.io/docs/)
 
-## Links
+## Links 
 
 > [`Invite`](https://dsc.gg/tekno) `|` [`Support Server`](https://discord.gg/8qnMgRUuHJ)

@@ -20,6 +20,8 @@
 
 > `📷` **Image** commands
 
+> `🔨` Auto Moderation
+
 ## Documentation
 
 [` View it here `](https://tekno.gitbook.io/docs/)
